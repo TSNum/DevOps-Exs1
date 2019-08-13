@@ -9,7 +9,7 @@ __Bold__
 
 *Italic*
 
-**Bold**
+**Lihava**
 
 # Otsikko
 ## 2-tason otsikko
